@@ -10398,17 +10398,17 @@
                                         {
                                             "name":"1. FTPE03A - Tareo Vehicular",
                                             "information": "Lorem Ipsum is simply dummy text of the printing and",
-                                            "documentos":"https://docs.google.com/forms/d/e/1FAIpQLScO_LATuYusr722haanVq75IQpyOP1NJDViuxSr3n73_Q9qCA/viewform?usp=dialog"
+                                            "documentos":"https://docs.google.com/forms/d/e/1FAIpQLSd_HIO2tn-hIfDkQhHpyhv58ItHic0_ID6hwLCpWCLe0bv79g/viewform?usp=dialog"
                                         },
                                         {
                                             "name":"2. FTPE03B - Surtido de Combustible",
                                             "information": "Lorem Ipsum is simply dummy text of the printing and",
-                                            "documentos":"https://drive.google.com/drive/folders/1T9BzsXxiSqJG_6uD71g6HgNOs5ZYzcoZ?usp=sharing"
+                                            "documentos":"https://docs.google.com/forms/d/e/1FAIpQLSeVGoufHaUGpattnQQt-506g-4CbvFYF3--LKq2iwf4yozkhw/viewform?usp=dialog"
                                         },
                                         {
                                             "name":"3. FTP12 Entrega y Devolución Vehicular",
                                             "information": "Lorem Ipsum is simply dummy text of the printing and",
-                                            "documentos":"https://docs.google.com/spreadsheets/d/1hWnqTSLoqnJna5HB2yV_Y1I_3ZjAIjhxkTcFOGkDepM/edit?usp=drive_link"
+                                            "documentos":"#"
                                         }
                                     ]
                                 },
@@ -10475,17 +10475,17 @@
                                 {
                                     "name":"1. Operación LUZ DEL SUR",
                                     "information": "Lorem Ipsum is simply dummy text of the printing and",
-                                    "documentos":"https://tdemsrl-my.sharepoint.com/:f:/p/asistentelima/EmeGbdBkN3RApI0mZdrcITYBWbx7IDFEYdFAEFKodc9oxg?e=6YXbrk"
+                                    "documentos":"#"
                                 },
                                 {
                                     "name":"2. Indicadores LUZ DEL SUR",
                                     "information": "Lorem Ipsum is simply dummy text of the printing and",
-                                    "documentos":"https://docs.google.com/forms/d/e/1FAIpQLSeCmE-Jh4YKfV0I33w7r8SzUqGkujn61bOj2udlFGmSxYxJGg/viewform?usp=sf_link"
+                                    "documentos":"https://docs.google.com/forms/d/e/1FAIpQLSfLlXSHSSUVg2h1tkxzLWwaQrpHrmNGMkqifcv8RcZbzhk5Ng/viewform?usp=dialog"
                                 },
                                 {
                                     "name":"3. Informe Anulado",
                                     "information": "Lorem Ipsum is simply dummy text of the printing and",
-                                    "documentos":"https://docs.google.com/forms/d/e/1FAIpQLSdh7q6617KJhUtFuE5XrFkNYnB2npBysFfWaK7_U0wI7BQklw/viewform?usp=sf_link"
+                                    "documentos":"https://docs.google.com/forms/d/e/1FAIpQLScJY0k1dSQz7eJ_3KpO8WZB7SDHW7_GQ5nYHa787dsW5L158Q/viewform?usp=dialog"
                                 }
                             ]
                         }
@@ -10740,17 +10740,17 @@
                                         {
                                             "name":"1. FTPE03A - Tareo Vehicular",
                                             "information": "Lorem Ipsum is simply dummy text of the printing and",
-                                            "documentos":"https://docs.google.com/forms/d/e/1FAIpQLScO_LATuYusr722haanVq75IQpyOP1NJDViuxSr3n73_Q9qCA/viewform?usp=dialog"
+                                            "documentos":"https://docs.google.com/forms/d/e/1FAIpQLSd_HIO2tn-hIfDkQhHpyhv58ItHic0_ID6hwLCpWCLe0bv79g/viewform?usp=dialog"
                                         },
                                         {
                                             "name":"2. FTPE03B - Surtido de Combustible",
                                             "information": "Lorem Ipsum is simply dummy text of the printing and",
-                                            "documentos":"https://drive.google.com/drive/folders/1T9BzsXxiSqJG_6uD71g6HgNOs5ZYzcoZ?usp=sharing"
+                                            "documentos":"https://docs.google.com/forms/d/e/1FAIpQLSeVGoufHaUGpattnQQt-506g-4CbvFYF3--LKq2iwf4yozkhw/viewform?usp=dialog"
                                         },
                                         {
                                             "name":"3. FTP12 Entrega y Devolución Vehicular",
                                             "information": "Lorem Ipsum is simply dummy text of the printing and",
-                                            "documentos":"https://docs.google.com/spreadsheets/d/1hWnqTSLoqnJna5HB2yV_Y1I_3ZjAIjhxkTcFOGkDepM/edit?usp=drive_link"
+                                            "documentos":"#"
                                         }
                                     ]
                                 },
@@ -10834,4 +10834,5 @@
     ]
 
 }
+
 
